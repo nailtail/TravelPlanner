@@ -2,11 +2,12 @@
 //  AppDelegate.swift
 //  TravelPlanner
 //
-//  Created by Thanakorn on 22/1/2563 BE.
+//  Created by Thanakorn Amnajsatit on 22/1/2563 BE.
 //  Copyright © 2563 GAS. All rights reserved.
 //
 
 import UIKit
+import Firebase
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -15,6 +16,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        FirebaseApp.configure()
+        
         return true
     }
 

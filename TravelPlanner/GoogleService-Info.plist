@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>873014931569-f09lg7a1hg7ti246jh991r4rlu0nqfni.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.873014931569-f09lg7a1hg7ti246jh991r4rlu0nqfni</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCyI5nizf8xMJ-ifi4a7esT-Uxps6DxE4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>873014931569</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gas.TravelPlanner</string>
+	<key>PROJECT_ID</key>
+	<string>travelplanner-ttp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travelplanner-ttp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:873014931569:ios:4f4a389c6a3ac27bf5abd0</string>
+	<key>DATABASE_URL</key>
+	<string>https://travelplanner-ttp.firebaseio.com</string>
+</dict>
+</plist>

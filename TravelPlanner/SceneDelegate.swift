@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  TravelPlanner
 //
-//  Created by Thanakorn on 22/1/2563 BE.
+//  Created by Thanakorn Amnajsatit on 22/1/2563 BE.
 //  Copyright © 2563 GAS. All rights reserved.
 //
 
